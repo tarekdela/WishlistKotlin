@@ -1,23 +1,23 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *Wishlist*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tarek Delavallade**
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+**Wishlister** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ ] **User can see their list of items based on previously inputted items**
+- [ x] **User can add an item to their wishlist**
+- [ x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
 - [ ] Wishlist app is 🎨 **customized** 🎨
 - [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
+- [ x] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
 
@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,11 +38,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Mostly debugging issues with the url being clickable.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Tarek Delavallade]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
