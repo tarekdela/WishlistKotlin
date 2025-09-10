@@ -30,6 +30,10 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
 https://imgur.com/a/Q0SqLGn
 
+https://imgur.com/a/OB4dae7
+
+**scrolling feature**
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 <!-- Recommended tools:
